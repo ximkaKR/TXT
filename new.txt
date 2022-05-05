@@ -1,0 +1,6 @@
+	Surname - Himanych,
+	Name - Dmitiy,
+	Secondname - Andreevich,
+	Age - 23,
+	Numberanimals - 1,
+	Salary - 2500
